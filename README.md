@@ -69,7 +69,7 @@ npm run dev
 
 #### Layout Components
 
-The `BaseHead`, `Footer`, `Header` and `SideBar` components are already included in the layout sistem. To change the website content you can edit the content of this componenets.
+The `BaseHead`, `Footer`, `Header` and `SideBar` components are already included in the layout system. To change the website content you can edit the content of this componenets.
 
 ##### SideBar
 
